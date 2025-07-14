@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @amitkumaryada
-- 👀 I’m interested in Machine Kearning,Deep Learning,NLP,Computer Vision
-- 🌱 I’m currently learning Transformers
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @amitkumaryada  
+- 🧠 I’m passionate about AI, multi-agent systems, and building intelligent applications  
+- 🔍 I love exploring LLM frameworks like LangGraph, CrewAI, AutoGen, and more  
+- 💻 I enjoy working on research-backed projects, tutorials, and real-world applications  
+- 🤝 I’m looking to collaborate on open-source AI tools, educational content, and ML infra projects  
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/amitkumaryadav/) or via email at amitkumaryada@gmail.com  
+
 
 <!---
 amitkumaryada/amitkumaryada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
